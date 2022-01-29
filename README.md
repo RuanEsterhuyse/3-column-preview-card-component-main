@@ -4,12 +4,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![](images/Screenshot.jpg)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![](images/screenshot-1.jpg)
 
 ### Built with
 
